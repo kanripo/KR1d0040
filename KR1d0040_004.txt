@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮述註
-#+DATE: 2015-09-23 09:37:49
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:09:19.911486
+#+PROPERTY: ID KR1d0040
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1d0040_WYG_004-1a>¶
 欽定四庫全書¶
 　儀禮述註卷四¶
@@ -812,4 +814,3 @@
 　¶
 　¶
 　儀禮述註卷四¶
-

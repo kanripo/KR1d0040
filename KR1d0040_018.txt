@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 儀禮述註
-#+DATE: 2015-09-23 09:37:49
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:09:20.295293
+#+PROPERTY: ID KR1d0040
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 跋
 <pb:KR1d0040_WYG_018-1a>¶
 附授長兒儀禮跋¶
 儀禮十有七篇依古經錄出其斷節分註則本之信齋¶
@@ -22,4 +24,3 @@
 子誦其文則思其義習其儀則行其道則將謂子君子¶
 <pb:KR1d0040_WYG_018-2a>¶
 也小子勉之¶
-
